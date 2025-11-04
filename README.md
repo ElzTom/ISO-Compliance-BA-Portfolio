@@ -62,5 +62,5 @@ The project follows **Agile Scrum methodology**, demonstrating iterative require
 ---
 
 **Author:** Elizabeth Tom  
-**LinkedIn:** [[Insert your LinkedIn profile link]](https://www.linkedin.com/in/elizabeth-tom-514649180/)  
+**LinkedIn:** https://www.linkedin.com/in/elizabeth-tom-514649180/  
 **Email:** elizabetht18tom@gmail.com
