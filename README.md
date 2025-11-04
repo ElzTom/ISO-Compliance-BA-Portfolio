@@ -1,11 +1,11 @@
-
 # ISO Compliance Website – BA Portfolio Project
 
 ## Project Overview
 This is a **Business Analysis portfolio project** demonstrating practical BA skills.  
 The project simulates an ISO compliance website for managing compliance reports, approvals, and dashboards.  
 
-**Goal:** Showcase requirement gathering, user stories, process flow design, wireframes, and basic reporting skills.
+**Goal:** Showcase requirement gathering, user stories, process flow design, wireframes, and basic reporting skills.  
+The project follows **Agile Scrum methodology**, demonstrating iterative requirement gathering, backlog prioritization, and collaborative design.
 
 ---
 
@@ -17,6 +17,7 @@ The project simulates an ISO compliance website for managing compliance reports,
 
 ### 2. User Stories
 - Covers different user roles (Admin, Compliance Officer, Regular User) with acceptance criteria and prioritization.
+- Created and organized following **Scrum methodology**.
 - File: `UserStories.pdf`
 
 ### 3. Wireframes
@@ -39,16 +40,17 @@ The project simulates an ISO compliance website for managing compliance reports,
 ## Tools Used
 - **Figma / Balsamiq / Draw.io** – Wireframes & workflow diagrams  
 - **Excel / CSV** – Sample data & reporting  
+- **Trello** – Agile Scrum backlog management and task tracking  
 - **Markdown / GitHub** – Portfolio presentation  
+
 
 ---
 
 ## Skills Demonstrated
-- Requirement gathering & documentation  
-- User story creation & prioritization  
+- Requirement gathering & documentation using **Agile Scrum methodology**  
+- User story creation & backlog prioritization  
 - Wireframing & process flow design  
-- Basic data analysis and reporting  
-- Professional portfolio organization  
+- Basic data analysis and reporting  n  
 
 ---
 
@@ -60,5 +62,5 @@ The project simulates an ISO compliance website for managing compliance reports,
 ---
 
 **Author:** Elizabeth Tom  
-**LinkedIn:** [Insert your LinkedIn profile link]  
+**LinkedIn:** [[Insert your LinkedIn profile link]](https://www.linkedin.com/in/elizabeth-tom-514649180/)  
 **Email:** elizabetht18tom@gmail.com
